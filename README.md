@@ -1,5 +1,9 @@
 # GitHub-VScode 教學
 
+###### tags: `tutorials`
+
+[![hackmd-github-sync-badge](https://hackmd.io/wGqJM65RS1qUmVtJp1uFaA/badge)](https://hackmd.io/wGqJM65RS1qUmVtJp1uFaA)
+
 * 這份文件說明如何使用 Visula Studio Code (VSCode) 來進行 GitHub 上程式碼資料的下載與上傳
 * 首先電腦端必須安裝 Git 這個軟體，請參考以下網址下載，並一路按到底。
 https://git-scm.com/
@@ -52,7 +56,7 @@ git clone https://github.com/yangrui9501/Arduino_Example_LED.git
 
 ![c4](https://user-images.githubusercontent.com/91120147/161374571-ac4068f5-ac28-4c72-91ed-c94d0740aa5a.png)
 
-### Step 6. 最後，按下信任作者，就可以對這份程式碼做壞壞的事情。
+### Step 7. 最後，按下信任作者，就可以對這份程式碼做壞壞的事情。
 ![c5](https://user-images.githubusercontent.com/91120147/161374572-16e3349a-2eca-423a-a043-364d4d690cb4.png)
 
 ## A-3. 直接下載zip檔，解壓縮後用 VS Code 開啟。
@@ -97,7 +101,7 @@ git clone https://github.com/yangrui9501/Arduino_Example_LED.git
 
 ![d1](https://user-images.githubusercontent.com/91120147/161376757-db635a21-9a6c-4ddb-bd57-0f2e0cc30095.png)
 
-### Step 2. 按下勾勾表示認可。再按是儲存認可。
+### Step 2. 按下勾勾表示認可。再按「是」儲存認可。
 
 ![d2](https://user-images.githubusercontent.com/91120147/161376761-84c54836-5e60-479e-a270-6629768d9be9.png)
 
@@ -114,6 +118,6 @@ git clone https://github.com/yangrui9501/Arduino_Example_LED.git
 ![d5](https://user-images.githubusercontent.com/91120147/161376926-fbd25f08-a1e2-4a5f-9d86-8fbea5e74c5e.png)
 
 
-### Step 6. 按下去之後就會出現這些東西，會顯示說這些程式碼被更動了哪些部分，並且也可以之前的版本並不會直接被覆蓋掉，仍然可以把它們叫出來，方面我們進行版本控制。
+### Step 6. 按下去之後就會出現這些東西，會顯示說這些程式碼被更動了哪些部分，並且也可以之前的版本並不會直接被覆蓋掉，仍然可以把它們叫出來，方便我們進行版本控制。
 
 ![d6](https://user-images.githubusercontent.com/91120147/161376765-c64796da-b929-4428-88b4-d749b6a4a8c3.png)
